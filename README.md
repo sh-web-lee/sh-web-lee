@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @sh-web-lee
-- 👀 I’m a Front-end development engineer, javascript, css, vue, nodejs python, blog
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- Intro  -->
+<h3 align="center">
+   Hey There!, I am
+                <b><a target="_blank" href="https://alpaycelik.dev" style="color:#9DAAF2">Lee Malachi</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</b>
+</h3>
+<p align="center">
+  <a href="https://github.com/AlpayC"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Webdeveloper;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
+</p>
+<p align="center">     
+    「 I am a full stack web application developer 」
+    <br>
+    <br>
+
+</p>
 
 # My Techstack
 ![Javascript](https://img.shields.io/badge/Javascript-09131B?style=for-the-badge&logo=javascript)
