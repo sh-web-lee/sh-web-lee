@@ -14,6 +14,19 @@
 
 </p>
 
+<p align="center">
+ <a href="https://alpaycelik.dev" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="AlpayC" />
+ </a>
+ <a href="https://de.linkedin.com/in/alpay-celik" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AlpayC"/>
+ </a>
+ <a href="https://discord.com/invite/TqvEDzEv" target="_blank">
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="AlpayC"/>
+ </a>
+</p>
+<br />
+
 # My Techstack
 ![Javascript](https://img.shields.io/badge/Javascript-09131B?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-09131B?style=for-the-badge&logo=typescript)
