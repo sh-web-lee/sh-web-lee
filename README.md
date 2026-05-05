@@ -1,11 +1,11 @@
 <!-- Intro  -->
 <h3 align="center">
    Hey There!, I am
-                <b><a target="_blank" href="https://alpaycelik.dev" style="color:#9DAAF2">Lee Malachi</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+                <b><a target="_blank" href="https://www.lijianyang.cn" style="color:#9DAAF2">Lee Malachi</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </b>
 </h3>
 <p align="center">
-  <a href="https://github.com/AlpayC"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Webdeveloper;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
+  <a href="https://github.com/sh-web-lee"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Webdeveloper;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
 </p>
 <p align="center">     
     「 I am a full stack web application developer 」
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
- <a href="https://alpaycelik.dev" target="blank">
+ <a href="https://www.lijianyang.cn" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="AlpayC" />
  </a>
  <a href="https://de.linkedin.com/in/alpay-celik" target="_blank">
