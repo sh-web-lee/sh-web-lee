@@ -37,7 +37,7 @@
 ✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">sharing knowledge</code> <br/><br/>
 ❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> Next.js </code> <br/><br/>
 📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=hello@alpaycelik.dev"> shweblee@gmail.com</a><br/><br/>
-💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/AlpayC/AlpayC/issues">here</a>
+💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/sh-web-lee/sh-wen-lee/issues">here</a>
 
 </p>
 
